@@ -1,3 +1,8 @@
+// seperate sheet for all the constants used in the project
+// this will help in easy access and modification of the data
+// this will also help in maintaining the code and keeping it clean
+// links, images, icons, text, etc. can be stored in this file
+
 import {
   facebook,
   instagram,
