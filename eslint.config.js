@@ -33,6 +33,15 @@ export default [
         "warn",
         { allowConstantExport: true },
       ],
+      "prettier/prettier": [
+        "error",
+        {
+          singleQuote: true,
+          semi: true,
+          tabWidth: 2,
+          printWidth: 80,
+        },
+      ],
       "react/prop-types": 0,
     },
   },

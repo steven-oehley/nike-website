@@ -15,7 +15,7 @@ export const App = () => {
   return (
     <main className="relative">
       <Nav />
-      <section className="xl:padding-1 wide:padding-r padding-b">
+      <section className="xl:padding-l wide:padding-r padding-b">
         <Hero />
       </section>
       <section className="padding">
@@ -33,10 +33,10 @@ export const App = () => {
       <section className="padding bg-pale-blue">
         <CustomerReviews />
       </section>
-      <section className="padding-x sm:py-32 py-16 w-full">
+      <section className="padding-x w-full py-16 sm:py-32">
         <Subscribe />
       </section>
-      <section className="bg-black padding-x padding-t pb-8">
+      <section className="padding-x padding-t bg-black pb-8">
         <Footer />
       </section>
     </main>
