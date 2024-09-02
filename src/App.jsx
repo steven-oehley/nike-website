@@ -39,6 +39,9 @@ export const App = () => {
       <section className="padding-x padding-t bg-black pb-8">
         <Footer />
       </section>
+      <div className="fixed bottom-20 right-10 flex cursor-pointer items-center justify-center rounded-full bg-coral-red px-4 py-4 text-2xl text-white hover:scale-125">
+        <a href="#home">&uarr;</a>
+      </div>
     </main>
   );
 };
