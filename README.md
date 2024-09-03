@@ -14,9 +14,9 @@ This project is a modern and responsive website built to showcase Nike products 
 
 ## Technologies Used
 
-- **HTML**: Structure and layout of the website.
-- **CSS**: Styling with custom designs and responsive layouts.
-- **JavaScript**: Adds interactivity and dynamic behavior to the site.
+- **React**⚛️
+- **Tailwind**🍃: Styling with custom designs and responsive layouts.
+
 
 ## Installation
 
